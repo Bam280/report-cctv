@@ -1,0 +1,5 @@
+{
+  "name": "CCTV Downtime Reporter",
+  "description": "A comprehensive tool for tracking, managing, and reporting CCTV device downtime incidents with monthly organization.",
+  "requestFramePermissions": []
+}
